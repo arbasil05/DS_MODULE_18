@@ -14,8 +14,8 @@ To write a C program to implement Kruskal's Algorithm for finding minimum cost
 ```
 /*
 Program to implement Kruskal's Algorithm
-Developed by: Kurapati Vishnu Vardhan Reddy
-RegisterNumber:  212223040103
+Developed by: Abdur Rahman Baisl A H
+RegisterNumber:  212223040002
 */
     #include <stdio.h>
     #include <stdlib.h>
